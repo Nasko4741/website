@@ -1,0 +1,24 @@
+h1 {
+	background-color:green;
+	text-align:center;
+	color: lightblue;
+	}
+img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	}
+h2 {
+	text-align:center;
+	color:navy;
+	background-color:yellow;
+	}
+video {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	}
+body {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UVMOtu6U95QwgCUUuj3AlcDvdTQ2PXeDpg&usqp=CAU");
+	opacity: 1;
+	}
