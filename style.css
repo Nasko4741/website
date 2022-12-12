@@ -1,4 +1,4 @@
-h1 {
+ 	h1 {
     background-color:green;
     text-align:center;
     color: lightblue;
@@ -9,6 +9,8 @@ img {
     display:block;
     margin-left:auto;
     margin-right:auto;
+    width: 33%;
+    height: auto;
     }
 h2 {
     text-align:center;
@@ -21,7 +23,15 @@ video {
     margin-right:auto;
     }
 body {
+	margin:0;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UVMOtu6U95QwgCUUuj3AlcDvdTQ2PXeDpg&usqp=CAU");
     opacity: 1;
     font-family:'Courier New', Courier, monospace;
+    }
+#snimka {
+	display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 70%;
+    height: auto;
     }
