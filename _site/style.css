@@ -63,3 +63,8 @@ li a {
 li a:hover {
 	background-color: #11f;
 	}
+	
+.slctpg {
+background-color: white;
+color: black;
+}

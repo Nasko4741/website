@@ -1,5 +1,5 @@
 <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="tune.html">Tunning</a></li>
-    <li><a href="sources.html">Sources</a></li>
+    <li><a href="index.html" class= "{% if page.name == 'index.html' %} slctpg {% endif %}">Home</a></li>
+    <li><a href="tune.html" class="{% if page.name == 'tune.html' %} slctpg {% endif %}">Tunning</a></li>
+    <li><a href="sources.html" class="{% if page.name == 'sources.html' %} slctpg {% endif %}">Sources</a></li>
 </ul>
